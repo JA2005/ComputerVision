@@ -20,7 +20,7 @@ colored_img[150:230,100:207] = 255,169,10 # 255, 169, 10 is the colour keys
 cv.line(colored_img, (0,0), (600,600), (255,0,0), 3) # A short line can be added  
 #cv.line(colored_img, (0,0), (colored_img.shape[0], colored_img.shape[1]), (255,0,0), 3) # crossed line
 
-# How to add rectangle 
+# How to add rectangle shape
 cv.rectangle(colored_img, (50,100), (300, 400), (255,255,255), 3) # if instead of 3, I use cv.FILLED), it will color rectangle
 cv.putText(colored_img,"Python",(200,500), cv.FONT_HERSHEY_DUPLEX, 1, (255, 255,2), 2)
 cv.imshow("Black", img)
