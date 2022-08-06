@@ -8,7 +8,7 @@ OpenCV is a machine learning library which comprises more than 2500 optimised al
 - red eye removel from images 
 - and the list goes on...
 
-In this repository I have practised using OpenCV commands to show how it works...
+In this repository I have practised using OpenCV commands to show how it works.
 
 Details about OpenCV can be read from [here](https://opencv.org/about).
 
