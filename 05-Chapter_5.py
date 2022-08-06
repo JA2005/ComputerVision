@@ -1,4 +1,5 @@
 # Saving and writing an image 
+
 import cv2 as cv
 from cv2 import imwrite
 img = cv.imread("resources/image.jpg") 
