@@ -1,4 +1,4 @@
-# Converting webcam video into different colors; black & white and gray
+# Converting webcam video into different colors - black & white and gray
 from tkinter import Frame
 import cv2 as cv
 import numpy as np 
