@@ -1,4 +1,4 @@
-# How to change the resolution of webcam
+# How to change the resolution of a laptop webcam
 import cv2 as cv
 import numpy as np
 cap = cv.VideoCapture(0) # cap is for capture, (0) is for webcam
