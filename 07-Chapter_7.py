@@ -1,4 +1,4 @@
-# How to converting video to grey and Black / White
+# How to convert a video into grey and Black / White
 import cv2 as cv
 cap = cv.VideoCapture('resources/video.mp4')
 
